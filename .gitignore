@@ -1,0 +1,12 @@
+venv/
+videos/
+audios/
+jsons/
+old_jsons/
+whisper/
+not_going_to_use_files/
+embeddings.joblib
+response.txt
+__pycache__/
+*.pyc
+.env
